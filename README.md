@@ -14,8 +14,14 @@ Un analisis de sentimiento con red neuronal convolucional para determinar opinio
 
 
 /// A convolutional neural network sentiment analysis to determine positive or negative user opinions:
+
 -Capturing and cleaning of messages
+
 -Splitting data into training and testing
+
 -Preparation of the embedding layer
+
 -Convolutional Neural Network Creation
+
 -Final evaluation of the model with data
+
